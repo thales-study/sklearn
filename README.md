@@ -13,6 +13,9 @@
 [已经入门的请看目录](index.md)
 
 
+github地址为:https://github.com/thales-study/sklearn
+
+
 # 入门
 
 
